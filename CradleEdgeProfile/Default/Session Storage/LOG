@@ -1,3 +1,6 @@
-2025/08/08-10:58:02.654 147dc5 Reusing MANIFEST /Users/hubert.rycaj/Documents/Click-ass/CradleEdgeProfile/Default/Session Storage/MANIFEST-000001
-2025/08/08-10:58:02.655 147dc5 Recovering log #3
-2025/08/08-10:58:02.656 147dc5 Reusing old log /Users/hubert.rycaj/Documents/Click-ass/CradleEdgeProfile/Default/Session Storage/000003.log 
+2025/08/08-13:37:22.603 179512 Reusing MANIFEST /Users/hubert.rycaj/Documents/Click-ass/CradleEdgeProfile/Default/Session Storage/MANIFEST-000001
+2025/08/08-13:37:22.603 179512 Recovering log #10
+2025/08/08-13:37:22.603 179512 Reusing old log /Users/hubert.rycaj/Documents/Click-ass/CradleEdgeProfile/Default/Session Storage/000010.log 
+2025/08/08-13:37:33.462 179514 Level-0 table #14: started
+2025/08/08-13:37:33.466 179514 Level-0 table #14: 28128 bytes OK
+2025/08/08-13:37:33.470 179514 Delete type=0 #10

@@ -1,0 +1,10 @@
+2025/08/08-11:54:06.534 15871e Creating DB /Users/hubert.rycaj/Documents/Click-ass/CradleEdgeProfile/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb since it was missing.
+2025/08/08-11:54:06.536 15871e Reusing MANIFEST /Users/hubert.rycaj/Documents/Click-ass/CradleEdgeProfile/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/08-11:54:06.539 158711 Level-0 table #5: started
+2025/08/08-11:54:06.540 158711 Level-0 table #5: 570 bytes OK
+2025/08/08-11:54:06.541 158711 Delete type=0 #3
+2025/08/08-11:54:06.542 158711 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/08/08-11:54:07.298 158711 Level-0 table #7: started
+2025/08/08-11:54:07.301 158711 Level-0 table #7: 541 bytes OK
+2025/08/08-11:54:07.303 158711 Delete type=0 #4
+2025/08/08-11:54:07.304 158711 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

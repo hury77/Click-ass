@@ -1,2 +1,3 @@
-2025/08/07-17:44:08.168 1014ec Creating DB /Users/hubert.rycaj/Documents/Click-ass/CradleEdgeProfile/Default/IndexedDB/https_ntp.msn.com_0.indexeddb.leveldb since it was missing.
-2025/08/07-17:44:08.175 1014ec Reusing MANIFEST /Users/hubert.rycaj/Documents/Click-ass/CradleEdgeProfile/Default/IndexedDB/https_ntp.msn.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/08-13:25:20.329 175b5e Reusing MANIFEST /Users/hubert.rycaj/Documents/Click-ass/CradleEdgeProfile/Default/IndexedDB/https_ntp.msn.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/08-13:25:20.330 175b5e Recovering log #3
+2025/08/08-13:25:20.335 175b5e Reusing old log /Users/hubert.rycaj/Documents/Click-ass/CradleEdgeProfile/Default/IndexedDB/https_ntp.msn.com_0.indexeddb.leveldb/000003.log 
