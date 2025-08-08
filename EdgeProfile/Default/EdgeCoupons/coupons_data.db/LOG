@@ -1,0 +1,15 @@
+2025/08/08-14:45:07.366 192b84 Reusing MANIFEST /Users/hubert.rycaj/Documents/Click-ass/EdgeProfile/Default/EdgeCoupons/coupons_data.db/MANIFEST-000001
+2025/08/08-14:45:07.366 192b84 Recovering log #16
+2025/08/08-14:45:07.367 192b84 Reusing old log /Users/hubert.rycaj/Documents/Click-ass/EdgeProfile/Default/EdgeCoupons/coupons_data.db/000016.log 
+2025/08/08-14:45:07.409 192b80 Level-0 table #20: started
+2025/08/08-14:45:07.411 192b80 Level-0 table #20: 672036 bytes OK
+2025/08/08-14:45:07.413 192b80 Delete type=0 #16
+2025/08/08-14:45:07.414 192b80 Compacting 4@0 + 1@1 files
+2025/08/08-14:45:07.418 192b80 Generated table #21@0: 3 keys, 672036 bytes
+2025/08/08-14:45:07.418 192b80 Compacted 4@0 + 1@1 files => 672036 bytes
+2025/08/08-14:45:07.419 192b80 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/08-14:45:07.420 192b80 Delete type=2 #14
+2025/08/08-14:45:07.420 192b80 Delete type=2 #17
+2025/08/08-14:45:07.420 192b80 Delete type=2 #11
+2025/08/08-14:45:07.420 192b80 Delete type=2 #8
+2025/08/08-14:45:07.420 192b80 Delete type=2 #20

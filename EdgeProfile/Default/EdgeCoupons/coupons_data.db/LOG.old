@@ -1,0 +1,6 @@
+2025/08/08-14:44:41.893 1926c2 Reusing MANIFEST /Users/hubert.rycaj/Documents/Click-ass/EdgeProfile/Default/EdgeCoupons/coupons_data.db/MANIFEST-000001
+2025/08/08-14:44:41.894 1926c2 Recovering log #13
+2025/08/08-14:44:41.894 1926c2 Reusing old log /Users/hubert.rycaj/Documents/Click-ass/EdgeProfile/Default/EdgeCoupons/coupons_data.db/000013.log 
+2025/08/08-14:44:42.110 1926c0 Level-0 table #17: started
+2025/08/08-14:44:42.112 1926c0 Level-0 table #17: 672036 bytes OK
+2025/08/08-14:44:42.113 1926c0 Delete type=0 #13

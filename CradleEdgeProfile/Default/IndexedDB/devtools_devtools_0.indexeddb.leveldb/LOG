@@ -1,3 +1,7 @@
-2025/08/08-13:30:49.035 175b52 Reusing MANIFEST /Users/hubert.rycaj/Documents/Click-ass/CradleEdgeProfile/Default/IndexedDB/devtools_devtools_0.indexeddb.leveldb/MANIFEST-000001
-2025/08/08-13:30:49.035 175b52 Recovering log #3
-2025/08/08-13:30:49.035 175b52 Reusing old log /Users/hubert.rycaj/Documents/Click-ass/CradleEdgeProfile/Default/IndexedDB/devtools_devtools_0.indexeddb.leveldb/000003.log 
+2025/08/08-16:22:33.715 1ac04d Reusing MANIFEST /Users/hubert.rycaj/Documents/Click-ass/CradleEdgeProfile/Default/IndexedDB/devtools_devtools_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/08-16:22:33.715 1ac04d Recovering log #3
+2025/08/08-16:22:33.716 1ac04d Reusing old log /Users/hubert.rycaj/Documents/Click-ass/CradleEdgeProfile/Default/IndexedDB/devtools_devtools_0.indexeddb.leveldb/000003.log 
+2025/08/08-17:01:09.480 1ac04f Level-0 table #5: started
+2025/08/08-17:01:09.484 1ac04f Level-0 table #5: 5351 bytes OK
+2025/08/08-17:01:09.487 1ac04f Delete type=0 #3
+2025/08/08-17:01:09.489 1ac04f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
