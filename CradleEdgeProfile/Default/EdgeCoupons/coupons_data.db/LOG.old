@@ -1,0 +1,6 @@
+2025/08/07-17:44:10.358 1014eb Reusing MANIFEST /Users/hubert.rycaj/Documents/Click-ass/CradleEdgeProfile/Default/EdgeCoupons/coupons_data.db/MANIFEST-000001
+2025/08/07-17:44:10.359 1014eb Recovering log #4
+2025/08/07-17:44:10.359 1014eb Reusing old log /Users/hubert.rycaj/Documents/Click-ass/CradleEdgeProfile/Default/EdgeCoupons/coupons_data.db/000004.log 
+2025/08/07-17:44:10.597 1014ea Level-0 table #8: started
+2025/08/07-17:44:10.599 1014ea Level-0 table #8: 672036 bytes OK
+2025/08/07-17:44:10.621 1014ea Delete type=0 #4
