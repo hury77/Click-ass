@@ -1,0 +1,252 @@
+[2025-08-11 18:05:00] Uruchamiam Edge z profilem: /Users/hubert.rycaj/Documents/Click-ass/CradleEdgeProfile
+[2025-08-11 18:05:04] Otworzono stronę Cradle.
+[2025-08-11 18:05:04] Szukam zakładki 'My Team Tasks'...
+[2025-08-11 18:05:24] Klikam zakładkę 'My Team Tasks'...
+[2025-08-11 18:05:31] Zakładka kliknięta.
+[2025-08-11 18:05:31] Szukam filtra 'QA final proofreading'...
+[2025-08-11 18:05:33] Klikam filtr 'QA final proofreading'...
+[2025-08-11 18:05:33] Filtr 'QA final proofreading' wybrany.
+[2025-08-11 18:05:33] Czekam na przeładowanie tabeli...
+[2025-08-11 18:05:34] Szukam indexu kolumny 'Prod.Name' po odświeżeniu tabeli...
+[2025-08-11 18:05:34] Index kolumny 'Prod.Name': 8
+[2025-08-11 18:05:34] Szukam pierwszego linku w kolumnie 'Prod.Name'...
+[2025-08-11 18:05:34] Klikam pierwszy link w kolumnie 'Prod.Name'...
+[2025-08-11 18:05:35] Kliknięto pierwszy asset w 'Prod.Name'!
+[2025-08-11 18:05:38] Przełączono na nową kartę assetu.
+[2025-08-11 18:05:38] Szukam przycisku 'Pending'...
+[2025-08-11 18:05:38] Klikam 'Pending'...
+[2025-08-11 18:05:38] Kliknięto 'Pending'.
+[2025-08-11 18:05:38] Szukam przycisku 'Take' na popupie...
+[2025-08-11 18:05:39] Klikam 'Take'...
+[2025-08-11 18:05:39] Kliknięto 'Take'.
+[2025-08-11 18:05:39] Szukam linku do pliku w sekcji QC_final...
+[2025-08-11 18:05:39] Znaleziony link do pliku w sekcji QC_final: https://cradle.egplusww.pl/media/cradle/comment/878660/878660_250327YUTR_Electolux_x_Media_Video_No_Vo_Product_Swap_And_Titles_Change_16x9_28s_Hungarian_HU_9sfzyHX.mp4
+[2025-08-11 18:05:39] Szukam pliku w sekcji 'Broadcast file preparation'...
+[2025-08-11 18:05:39] Brak pliku w sekcji 'Broadcast file preparation'.
+[2025-08-11 18:05:39] Pobieram cookies sesji...
+[2025-08-11 18:05:39] Pobieram plik (QC_final/QA Proofreading) do: /Users/hubert.rycaj/Downloads/878660_250327YUTR_Electolux_x_Media_Video_No_Vo_Product_Swap_And_Titles_Change_16x9_28s_Hungarian_HU_9sfzyHX.mp4
+[2025-08-11 18:06:02] Plik (QC_final/QA Proofreading) pobrany!
+[2025-08-11 18:06:02] Nie znaleziono pliku do pobrania w sekcji Broadcast file preparation.
+[2025-08-11 18:06:02] Szukam ścieżki sieciowej ('/Volumes/...') na stronie assetu...
+[2025-08-11 18:06:02] Nie znaleziono ścieżki sieciowej lub kopiowanie nie powiodło się (to nie błąd krytyczny).
+[2025-08-11 18:06:02] Message: no such element: Unable to locate element: {"method":"xpath","selector":"//p[starts-with(normalize-space(), '/Volumes/')]"}
+  (Session info: MicrosoftEdge=139.0.3405.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+0   msedgedriver                        0x00000001049158e8 msedgedriver + 5413096
+1   msedgedriver                        0x000000010490d478 msedgedriver + 5379192
+2   msedgedriver                        0x000000010442fe90 msedgedriver + 278160
+3   msedgedriver                        0x0000000104478824 msedgedriver + 575524
+4   msedgedriver                        0x00000001044b588c msedgedriver + 825484
+5   msedgedriver                        0x000000010446d1a8 msedgedriver + 528808
+6   msedgedriver                        0x00000001048d6594 msedgedriver + 5154196
+7   msedgedriver                        0x00000001048da144 msedgedriver + 5169476
+8   msedgedriver                        0x00000001048b5520 msedgedriver + 5018912
+9   msedgedriver                        0x00000001048da9c8 msedgedriver + 5171656
+10  msedgedriver                        0x00000001048a6f78 msedgedriver + 4960120
+11  msedgedriver                        0x00000001048fb81c msedgedriver + 5306396
+12  msedgedriver                        0x00000001048fb950 msedgedriver + 5306704
+13  msedgedriver                        0x000000010490d064 msedgedriver + 5378148
+14  libsystem_pthread.dylib             0x000000018701bc0c _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000187016b80 thread_start + 8
+
+[2025-08-11 18:06:02] Szukam linku LucidLink na stronie assetu...
+[2025-08-11 18:06:02] Znaleziono link LucidLink: lucid://alfa.egpluswarsaw/file/129:31686/878660%5F250327YUTR%5FElectolux%5Fx%5FMedia%20Video%20%28No%20Vo%2C%20Product%20Swap%20And%20Titles%20Change%29%5F16x9%2028s%5FHungarian%20%28HU%29.mov?reveal=true
+[2025-08-11 18:06:02] Lokalna ścieżka LucidLink: /Volumes/alfa.egpluswarsaw/file/129:31686/878660_250327YUTR_Electolux_x_Media Video (No Vo, Product Swap And Titles Change)_16x9 28s_Hungarian (HU).mov
+[2025-08-11 18:06:02] Otwieram plik przez system (open), by wymusić pobranie przez LucidLink...
+[2025-08-11 18:06:02] Odczekuję 3 sekundy, by LucidLink zainicjował pobieranie pliku...
+[2025-08-11 18:06:05] Próbuję pobrać plik LucidLink do katalogu Download (max 5 minut)...
+[2025-08-11 18:06:05] Plik jeszcze nie jest dostępny lokalnie, LucidLink rozpoczyna pobieranie... ([Errno 2] No such file or directory: '/Volumes/alfa.egpluswarsaw/file/129:31686/878660_250327YUTR_Electolux_x_Media Video (No Vo, Product Swap And Titles Change)_16x9 28s_Hungarian (HU).mov')
+[2025-08-11 18:11:06] Plik LucidLink ciągle nie jest dostępny lokalnie po 5 minutach! Sprawdź aplikację LucidLink lub połączenie.
+[2025-08-11 18:49:30] Uruchamiam Edge z profilem: /Users/hubert.rycaj/Documents/Click-ass/CradleEdgeProfile
+[2025-08-11 18:49:33] Otworzono stronę Cradle.
+[2025-08-11 18:49:33] Szukam zakładki 'My Team Tasks'...
+[2025-08-11 18:50:13] Błąd podczas automatyzacji: Message: 
+Stacktrace:
+0   msedgedriver                        0x00000001029b18e8 msedgedriver + 5413096
+1   msedgedriver                        0x00000001029a9478 msedgedriver + 5379192
+2   msedgedriver                        0x00000001024cbe90 msedgedriver + 278160
+3   msedgedriver                        0x0000000102514824 msedgedriver + 575524
+4   msedgedriver                        0x000000010255188c msedgedriver + 825484
+5   msedgedriver                        0x00000001025091a8 msedgedriver + 528808
+6   msedgedriver                        0x0000000102972594 msedgedriver + 5154196
+7   msedgedriver                        0x0000000102976144 msedgedriver + 5169476
+8   msedgedriver                        0x0000000102951520 msedgedriver + 5018912
+9   msedgedriver                        0x00000001029769c8 msedgedriver + 5171656
+10  msedgedriver                        0x0000000102942f78 msedgedriver + 4960120
+11  msedgedriver                        0x000000010299781c msedgedriver + 5306396
+12  msedgedriver                        0x0000000102997950 msedgedriver + 5306704
+13  msedgedriver                        0x00000001029a9064 msedgedriver + 5378148
+14  libsystem_pthread.dylib             0x000000018701bc0c _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000187016b80 thread_start + 8
+
+[2025-08-11 19:00:42] Uruchamiam Edge z profilem: /Users/hubert.rycaj/Documents/Click-ass/CradleEdgeProfile
+[2025-08-11 19:00:45] Otworzono stronę Cradle.
+[2025-08-11 19:00:45] Szukam zakładki 'My Team Tasks'...
+[2025-08-11 19:01:00] Klikam zakładkę 'My Team Tasks'...
+[2025-08-11 19:01:07] Zakładka kliknięta.
+[2025-08-11 19:01:07] Szukam filtra 'QA final proofreading'...
+[2025-08-11 19:01:09] Klikam filtr 'QA final proofreading'...
+[2025-08-11 19:01:09] Filtr 'QA final proofreading' wybrany.
+[2025-08-11 19:01:09] Czekam na przeładowanie tabeli...
+[2025-08-11 19:01:10] Szukam indexu kolumny 'Prod.Name' po odświeżeniu tabeli...
+[2025-08-11 19:01:10] Index kolumny 'Prod.Name': 8
+[2025-08-11 19:01:10] Szukam pierwszego linku w kolumnie 'Prod.Name'...
+[2025-08-11 19:01:10] Klikam pierwszy link w kolumnie 'Prod.Name'...
+[2025-08-11 19:01:10] Kliknięto pierwszy asset w 'Prod.Name'!
+[2025-08-11 19:01:13] Przełączono na nową kartę assetu.
+[2025-08-11 19:01:13] Szukam przycisku 'Pending'...
+[2025-08-11 19:01:13] Klikam 'Pending'...
+[2025-08-11 19:01:13] Kliknięto 'Pending'.
+[2025-08-11 19:01:13] Szukam przycisku 'Take' na popupie...
+[2025-08-11 19:01:14] Klikam 'Take'...
+[2025-08-11 19:01:14] Kliknięto 'Take'.
+[2025-08-11 19:01:14] Szukam linku do pliku w sekcji QC_final...
+[2025-08-11 19:01:14] Znaleziony link do pliku w sekcji QC_final: https://cradle.egplusww.pl/media/cradle/comment/878660/878660_250327YUTR_Electolux_x_Media_Video_No_Vo_Product_Swap_And_Titles_Change_16x9_28s_Hungarian_HU_9sfzyHX.mp4
+[2025-08-11 19:01:14] Szukam pliku w sekcji 'Broadcast file preparation'...
+[2025-08-11 19:01:14] Brak pliku w sekcji 'Broadcast file preparation'.
+[2025-08-11 19:01:14] Pobieram cookies sesji...
+[2025-08-11 19:01:14] Pobieram plik (QC_final/QA Proofreading) do: /Users/hubert.rycaj/Downloads/878660_250327YUTR_Electolux_x_Media_Video_No_Vo_Product_Swap_And_Titles_Change_16x9_28s_Hungarian_HU_9sfzyHX.mp4
+[2025-08-11 19:01:19] Plik (QC_final/QA Proofreading) pobrany!
+[2025-08-11 19:01:19] Nie znaleziono pliku do pobrania w sekcji Broadcast file preparation.
+[2025-08-11 19:01:19] Szukam ścieżki sieciowej ('/Volumes/...') na stronie assetu...
+[2025-08-11 19:01:19] Nie znaleziono ścieżki sieciowej lub kopiowanie nie powiodło się (to nie błąd krytyczny).
+[2025-08-11 19:01:19] Message: no such element: Unable to locate element: {"method":"xpath","selector":"//p[starts-with(normalize-space(), '/Volumes/')]"}
+  (Session info: MicrosoftEdge=139.0.3405.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+0   msedgedriver                        0x00000001006298e8 msedgedriver + 5413096
+1   msedgedriver                        0x0000000100621478 msedgedriver + 5379192
+2   msedgedriver                        0x0000000100143e90 msedgedriver + 278160
+3   msedgedriver                        0x000000010018c824 msedgedriver + 575524
+4   msedgedriver                        0x00000001001c988c msedgedriver + 825484
+5   msedgedriver                        0x00000001001811a8 msedgedriver + 528808
+6   msedgedriver                        0x00000001005ea594 msedgedriver + 5154196
+7   msedgedriver                        0x00000001005ee144 msedgedriver + 5169476
+8   msedgedriver                        0x00000001005c9520 msedgedriver + 5018912
+9   msedgedriver                        0x00000001005ee9c8 msedgedriver + 5171656
+10  msedgedriver                        0x00000001005baf78 msedgedriver + 4960120
+11  msedgedriver                        0x000000010060f81c msedgedriver + 5306396
+12  msedgedriver                        0x000000010060f950 msedgedriver + 5306704
+13  msedgedriver                        0x0000000100621064 msedgedriver + 5378148
+14  libsystem_pthread.dylib             0x000000018701bc0c _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000187016b80 thread_start + 8
+
+[2025-08-11 19:01:19] Szukam linku LucidLink na stronie assetu...
+[2025-08-11 19:01:19] Znaleziono link LucidLink: lucid://alfa.egpluswarsaw/file/129:31686/878660%5F250327YUTR%5FElectolux%5Fx%5FMedia%20Video%20%28No%20Vo%2C%20Product%20Swap%20And%20Titles%20Change%29%5F16x9%2028s%5FHungarian%20%28HU%29.mov?reveal=true
+[2025-08-11 19:01:19] Klikam link LucidLink przez Selenium (Finder otwiera lokalizację pliku)...
+[2025-08-11 19:01:21] Lokalna ścieżka LucidLink: /Volumes/alfa.egpluswarsaw/file/129:31686/878660_250327YUTR_Electolux_x_Media Video (No Vo, Product Swap And Titles Change)_16x9 28s_Hungarian (HU).mov
+[2025-08-11 19:01:21] Plik /Volumes/alfa.egpluswarsaw/file/129:31686/878660_250327YUTR_Electolux_x_Media Video (No Vo, Product Swap And Titles Change)_16x9 28s_Hungarian (HU).mov nie jest jeszcze dostępny lokalnie. Sprawdź w Finderze status (zielona ikonka = gotowy), otwórz plik lub poczekaj na pobranie przez LucidLink.
+[2025-08-11 19:03:21] Plik /Volumes/alfa.egpluswarsaw/file/129:31686/878660_250327YUTR_Electolux_x_Media Video (No Vo, Product Swap And Titles Change)_16x9 28s_Hungarian (HU).mov nie został pobrany w ciągu 2 minut. Sprawdź status LucidLink/Finder i spróbuj ponownie.
+[2025-08-11 19:14:05] Uruchamiam Edge z profilem: /Users/hubert.rycaj/Documents/Click-ass/CradleEdgeProfile
+[2025-08-11 19:14:08] Otworzono stronę Cradle.
+[2025-08-11 19:14:08] Szukam zakładki 'My Team Tasks'...
+[2025-08-11 19:14:22] Klikam zakładkę 'My Team Tasks'...
+[2025-08-11 19:14:29] Zakładka kliknięta.
+[2025-08-11 19:14:29] Szukam filtra 'QA final proofreading'...
+[2025-08-11 19:14:31] Klikam filtr 'QA final proofreading'...
+[2025-08-11 19:14:31] Filtr 'QA final proofreading' wybrany.
+[2025-08-11 19:14:31] Czekam na przeładowanie tabeli...
+[2025-08-11 19:14:32] Szukam indexu kolumny 'Prod.Name' po odświeżeniu tabeli...
+[2025-08-11 19:14:33] Index kolumny 'Prod.Name': 8
+[2025-08-11 19:14:33] Szukam pierwszego linku w kolumnie 'Prod.Name'...
+[2025-08-11 19:14:33] Klikam pierwszy link w kolumnie 'Prod.Name'...
+[2025-08-11 19:14:33] Kliknięto pierwszy asset w 'Prod.Name'!
+[2025-08-11 19:14:36] Przełączono na nową kartę assetu.
+[2025-08-11 19:14:36] Szukam przycisku 'Pending'...
+[2025-08-11 19:14:36] Klikam 'Pending'...
+[2025-08-11 19:14:36] Kliknięto 'Pending'.
+[2025-08-11 19:14:36] Szukam przycisku 'Take' na popupie...
+[2025-08-11 19:14:37] Klikam 'Take'...
+[2025-08-11 19:14:37] Kliknięto 'Take'.
+[2025-08-11 19:14:37] Szukam linku do pliku w sekcji QC_final...
+[2025-08-11 19:14:37] Znaleziony link do pliku w sekcji QC_final: https://cradle.egplusww.pl/media/cradle/comment/878657/878657_250327ZH2O_Electolux_x_Media_Video_No_Vo_Product_Swap_And_Titles_Change_16x9_28s_Hungarian_HU_7AcpA5W.mp4
+[2025-08-11 19:14:37] Szukam pliku w sekcji 'Broadcast file preparation'...
+[2025-08-11 19:14:37] Brak pliku w sekcji 'Broadcast file preparation'.
+[2025-08-11 19:14:37] Pobieram cookies sesji...
+[2025-08-11 19:14:37] Pobieram plik (QC_final/QA Proofreading) do: /Users/hubert.rycaj/Downloads/878657_250327ZH2O_Electolux_x_Media_Video_No_Vo_Product_Swap_And_Titles_Change_16x9_28s_Hungarian_HU_7AcpA5W.mp4
+[2025-08-11 19:14:40] Plik (QC_final/QA Proofreading) pobrany!
+[2025-08-11 19:14:40] Nie znaleziono pliku do pobrania w sekcji Broadcast file preparation.
+[2025-08-11 19:14:40] Szukam ścieżki sieciowej ('/Volumes/...') na stronie assetu...
+[2025-08-11 19:14:41] Nie znaleziono ścieżki sieciowej lub kopiowanie nie powiodło się (to nie błąd krytyczny).
+[2025-08-11 19:14:41] Message: no such element: Unable to locate element: {"method":"xpath","selector":"//p[starts-with(normalize-space(), '/Volumes/')]"}
+  (Session info: MicrosoftEdge=139.0.3405.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+0   msedgedriver                        0x00000001033358e8 msedgedriver + 5413096
+1   msedgedriver                        0x000000010332d478 msedgedriver + 5379192
+2   msedgedriver                        0x0000000102e4fe90 msedgedriver + 278160
+3   msedgedriver                        0x0000000102e98824 msedgedriver + 575524
+4   msedgedriver                        0x0000000102ed588c msedgedriver + 825484
+5   msedgedriver                        0x0000000102e8d1a8 msedgedriver + 528808
+6   msedgedriver                        0x00000001032f6594 msedgedriver + 5154196
+7   msedgedriver                        0x00000001032fa144 msedgedriver + 5169476
+8   msedgedriver                        0x00000001032d5520 msedgedriver + 5018912
+9   msedgedriver                        0x00000001032fa9c8 msedgedriver + 5171656
+10  msedgedriver                        0x00000001032c6f78 msedgedriver + 4960120
+11  msedgedriver                        0x000000010331b81c msedgedriver + 5306396
+12  msedgedriver                        0x000000010331b950 msedgedriver + 5306704
+13  msedgedriver                        0x000000010332d064 msedgedriver + 5378148
+14  libsystem_pthread.dylib             0x000000018701bc0c _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000187016b80 thread_start + 8
+
+[2025-08-11 19:14:41] Szukam linku LucidLink na stronie assetu...
+[2025-08-11 19:14:41] Znaleziono link LucidLink: lucid://alfa.egpluswarsaw/file/129:31678/878657%5F250327ZH2O%5FElectolux%5Fx%5FMedia%20Video%20%28No%20Vo%2C%20Product%20Swap%20And%20Titles%20Change%29%5F16x9%2028s%5FHungarian%20%28HU%29.mov?reveal=true
+[2025-08-11 19:14:41] Lokalna ścieżka LucidLink: /Volumes/alfa.egpluswarsaw/file/129:31678/878657_250327ZH2O_Electolux_x_Media Video (No Vo, Product Swap And Titles Change)_16x9 28s_Hungarian (HU).mov
+[2025-08-11 19:14:41] Plik /Volumes/alfa.egpluswarsaw/file/129:31678/878657_250327ZH2O_Electolux_x_Media Video (No Vo, Product Swap And Titles Change)_16x9 28s_Hungarian (HU).mov nie jest dostępny lokalnie. Upewnij się, że plik jest zsynchronizowany przez LucidLink (zielona ikonka w Finderze) i spróbuj ponownie.
+[2025-08-12 10:20:01] Uruchamiam Edge z profilem: /Users/hubert.rycaj/Documents/Click-ass/CradleEdgeProfile
+[2025-08-12 10:20:04] Otworzono stronę Cradle.
+[2025-08-12 10:20:04] Szukam zakładki 'My Team Tasks'...
+[2025-08-12 10:20:21] Klikam zakładkę 'My Team Tasks'...
+[2025-08-12 10:20:31] Zakładka kliknięta.
+[2025-08-12 10:20:31] Szukam filtra 'QA final proofreading'...
+[2025-08-12 10:20:33] Klikam filtr 'QA final proofreading'...
+[2025-08-12 10:20:33] Filtr 'QA final proofreading' wybrany.
+[2025-08-12 10:20:33] Czekam na przeładowanie tabeli...
+[2025-08-12 10:20:34] Szukam indexu kolumny 'Prod.Name' po odświeżeniu tabeli...
+[2025-08-12 10:20:34] Index kolumny 'Prod.Name': 8
+[2025-08-12 10:20:34] Szukam pierwszego linku w kolumnie 'Prod.Name'...
+[2025-08-12 10:20:34] Klikam pierwszy link w kolumnie 'Prod.Name'...
+[2025-08-12 10:20:34] Kliknięto pierwszy asset w 'Prod.Name'!
+[2025-08-12 10:20:37] Przełączono na nową kartę assetu.
+[2025-08-12 10:20:37] Szukam przycisku 'Pending'...
+[2025-08-12 10:20:37] Klikam 'Pending'...
+[2025-08-12 10:20:37] Kliknięto 'Pending'.
+[2025-08-12 10:20:37] Szukam przycisku 'Take' na popupie...
+[2025-08-12 10:20:38] Klikam 'Take'...
+[2025-08-12 10:20:38] Kliknięto 'Take'.
+[2025-08-12 10:20:38] Szukam linku do pliku w sekcji QC_final...
+[2025-08-12 10:20:38] Znaleziony link do pliku w sekcji QC_final: https://cradle.egplusww.pl/media/cradle/comment/866327/114185_866327_Framtid_digital_assets_into_polish_language_241115WZB5_video_16x9_Polish_PL.mp4
+[2025-08-12 10:20:38] Szukam pliku w sekcji 'Broadcast file preparation'...
+[2025-08-12 10:20:38] Brak pliku w sekcji 'Broadcast file preparation'.
+[2025-08-12 10:20:38] Pobieram cookies sesji...
+[2025-08-12 10:20:38] Pobieram plik (QC_final/QA Proofreading) do: /Users/hubert.rycaj/Downloads/114185_866327_Framtid_digital_assets_into_polish_language_241115WZB5_video_16x9_Polish_PL.mp4
+[2025-08-12 10:20:52] Plik (QC_final/QA Proofreading) pobrany!
+[2025-08-12 10:20:52] Nie znaleziono pliku do pobrania w sekcji Broadcast file preparation.
+[2025-08-12 10:20:52] Szukam ścieżki sieciowej ('/Volumes/...') na stronie assetu...
+[2025-08-12 10:20:52] Znaleziono ścieżkę sieciową: /Volumes/egpluswarsaw/alfa/Electrolux/TV/114185 Framtid digital assets into polish language/broadcast
+[2025-08-12 10:20:52] Czy plik istnieje? False
+[2025-08-12 10:20:52] Sprawdzam czy istnieje: /Volumes/egpluswarsaw/alfa/Electrolux/TV/114185 Framtid digital assets into polish language/broadcast.mp4 -> False
+[2025-08-12 10:20:52] Sprawdzam czy istnieje: /Volumes/egpluswarsaw/alfa/Electrolux/TV/114185 Framtid digital assets into polish language/broadcast.mov -> False
+[2025-08-12 10:20:52] Sprawdzam czy istnieje: /Volumes/egpluswarsaw/alfa/Electrolux/TV/114185 Framtid digital assets into polish language/broadcast.zip -> False
+[2025-08-12 10:20:52] Sprawdzam czy istnieje: /Volumes/egpluswarsaw/alfa/Electrolux/TV/114185 Framtid digital assets into polish language/broadcast.mp4.zip -> False
+[2025-08-12 10:20:52] Nie znaleziono pliku pod podaną ścieżką z żadnym z typowych rozszerzeń!
+[2025-08-12 10:20:52] Szukam linku LucidLink na stronie assetu...
+[2025-08-12 10:20:52] Nie znaleziono linku LucidLink lub kopiowanie nie powiodło się (to nie błąd krytyczny).
+[2025-08-12 10:20:52] Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[starts-with(@href, 'lucid://')]"}
+  (Session info: MicrosoftEdge=139.0.3405.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+0   msedgedriver                        0x0000000104d658e8 msedgedriver + 5413096
+1   msedgedriver                        0x0000000104d5d478 msedgedriver + 5379192
+2   msedgedriver                        0x000000010487fe90 msedgedriver + 278160
+3   msedgedriver                        0x00000001048c8824 msedgedriver + 575524
+4   msedgedriver                        0x000000010490588c msedgedriver + 825484
+5   msedgedriver                        0x00000001048bd1a8 msedgedriver + 528808
+6   msedgedriver                        0x0000000104d26594 msedgedriver + 5154196
+7   msedgedriver                        0x0000000104d2a144 msedgedriver + 5169476
+8   msedgedriver                        0x0000000104d05520 msedgedriver + 5018912
+9   msedgedriver                        0x0000000104d2a9c8 msedgedriver + 5171656
+10  msedgedriver                        0x0000000104cf6f78 msedgedriver + 4960120
+11  msedgedriver                        0x0000000104d4b81c msedgedriver + 5306396
+12  msedgedriver                        0x0000000104d4b950 msedgedriver + 5306704
+13  msedgedriver                        0x0000000104d5d064 msedgedriver + 5378148
+14  libsystem_pthread.dylib             0x000000018701bc0c _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000187016b80 thread_start + 8
+
